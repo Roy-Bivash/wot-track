@@ -80,7 +80,7 @@ python main.py
 Le bot tourne en continue
 
 #### Arrêter le bot
-Appuyez sur `Ctrl+C` dans le terminal`
+Appuyez sur `Ctrl+C` dans le terminal
 
 
 ## Exemple de Notification Discord
